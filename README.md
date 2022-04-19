@@ -4,6 +4,6 @@ __Chapitre 1:__ [__Rappels sur les probabilités__](https://github.com/Hamrita/P
 
 __Chapitre 2:__ [__Variables aléatoires - Moments__]()
 
-__Chapitre 3: __[__Lois usuelles__]()
+__Chapitre 3:__ [__Lois usuelles__]()
 
-__Chapitre 4: __[Couple aléatoires__]()
+__Chapitre 4:__ [__Couple aléatoires__]()
