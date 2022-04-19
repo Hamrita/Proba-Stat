@@ -6,4 +6,4 @@ __Chapitre 2:__ [__Variables aléatoires - Moments__]()
 
 __Chapitre 3:__ [__Lois usuelles__]()
 
-__Chapitre 4:__ [__Couple aléatoires__]()
+__Chapitre 4:__ [__Couple aléatoire__]()
