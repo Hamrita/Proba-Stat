@@ -6,4 +6,4 @@ __Chapitre 2:__ [__Variables aléatoires - Moments__](https://github.com/Hamrita
 
 __Chapitre 3:__ [__Lois usuelles__](https://github.com/Hamrita/Proba-Stat/blob/main/Chap3/Proba_Stat_Chap3.pdf)
 
-__Chapitre 4:__ [__Couple aléatoire__]()
+__Chapitre 4:__ [__Couple aléatoire__](https://github.com/Hamrita/Proba-Stat/blob/main/Chap4/Proba_Stat_Chap4.pdf)
